@@ -27,4 +27,4 @@ public class Calculatrice {
         System.out.println("10 * 5 = " + calc.multiplication(10, 5));
         System.out.println("10 / 5 = " + calc.division(10, 5));
     }
-}
+}"// Test 1: verification addition" 
