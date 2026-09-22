@@ -28,3 +28,4 @@ public class Calculatrice {
         System.out.println("10 / 5 = " + calc.division(10, 5));
     }
 }"// Test 1: verification addition" 
+"// Test 2: verification division par zero" 
